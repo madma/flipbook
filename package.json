@@ -1,0 +1,19 @@
+{
+  "name": "flipbook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madma/flipbook.git"
+  },
+  "author": "Michael Duran, michael at madwork dot io",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/madma/flipbook/issues"
+  },
+  "homepage": "https://github.com/madma/flipbook#readme"
+}
